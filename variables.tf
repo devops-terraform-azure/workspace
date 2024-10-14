@@ -1,7 +1,7 @@
 variable "organization_name" {
   type        = string
   description = "The TFE Organization Name."
-  default     = "azure-org-learning"
+  default     = "AzureCraft"
 }
 
 variable "email" {
